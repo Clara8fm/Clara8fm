@@ -1,4 +1,11 @@
-## Hi there 👋
+Bem Vindos ao meu perfil
+Meu nome é Clara Farsula
+Estou me desenvolvendo na linguagem JavaScript
+Esse espaço é para compartilhar os meus projetos desenvolvidos
+
+Você pode entrar em contato comigo por: 00001091616723sp@al.educaçao.sp.gov.br
+
+
 
 <!--
 **Clara8fm/Clara8fm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+'
